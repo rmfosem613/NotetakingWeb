@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="56" viewBox="0 0 192 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e6dbda;
+        stroke: #f7eceb;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #545871;
+        font-size: 28px;
+        font-family: SitkaBanner-Bold, Sitka Banner;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_470" data-name="그룹 470" transform="translate(23081 10770)">
+    <g id="그룹_422" data-name="그룹 422" transform="translate(-23081 -10770)">
+      <g id="사각형_508" data-name="사각형 508" class="cls-1">
+        <rect class="cls-3" width="192" height="56"/>
+        <rect class="cls-4" x="1.5" y="1.5" width="189" height="53"/>
+      </g>
+    </g>
+    <text id="Google_Sign_in" data-name="Google Sign in" class="cls-2" transform="translate(-22985 -10735)"><tspan x="-82.625" y="0">Google Sign in</tspan></text>
+  </g>
+</svg>

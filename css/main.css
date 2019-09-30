@@ -1,0 +1,38 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1280 – 3;
+	--web-view-id: __1280___3;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: __1280___3;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#__1280___3 {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1521px;
+	height: 727px;
+	background-color: rgba(229,223,222,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: 웹 1280 – 3;
+	--web-view-id: __1280___3;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+.KakaoTalk_20190907_222632847 {
+	position: absolute;
+	overflow: visible;
+	width: 283.645px;
+	height: 76px;
+	left: 615.355px;
+	top: 249px;
+}

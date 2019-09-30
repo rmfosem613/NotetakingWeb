@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="267" height="59" viewBox="0 0 267 59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7eceb;
+        stroke: #9597a6;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #9597a6;
+        font-size: 23px;
+        font-family: MalgunGothic, Malgun Gothic;
+      }
+
+      .cls-3 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="그룹_469" data-name="그룹 469" transform="translate(22006 8211)">
+    <g id="사각형_749" data-name="사각형 749" class="cls-1" transform="translate(-22006 -8211)">
+      <rect class="cls-4" width="267" height="59" rx="22"/>
+      <rect class="cls-5" x="1.5" y="1.5" width="264" height="56" rx="20.5"/>
+    </g>
+    <text id="지금_당장_시작하기" data-name="지금 당장 시작하기" class="cls-2" transform="translate(-21971 -8172)"><tspan x="0" y="0">지금</tspan><tspan class="cls-3" y="0"> </tspan><tspan y="0">당장</tspan><tspan class="cls-3" y="0"> </tspan><tspan y="0">시작하기</tspan></text>
+  </g>
+</svg>

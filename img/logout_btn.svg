@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="56" viewBox="0 0 192 56">
+  <g id="logout_btn" transform="translate(-92 -378)">
+    <g id="사각형_508" data-name="사각형 508" transform="translate(92 378)" fill="#e6dbda" stroke="#f7eceb" stroke-linejoin="round" stroke-width="3">
+      <rect width="192" height="56" stroke="none"/>
+      <rect x="1.5" y="1.5" width="189" height="53" fill="none"/>
+    </g>
+    <text id="Logout" transform="translate(188 413)" fill="#545871" font-size="28" font-family="SitkaBanner-Bold, Sitka Banner" font-weight="700"><tspan x="-39.71" y="0">Logout</tspan></text>
+  </g>
+</svg>
