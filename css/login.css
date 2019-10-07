@@ -1,0 +1,381 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1280 – 1   // 지금 당장 시작하기 - 로그인 창;
+	--web-view-id: __1280___1________________________;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: __1280___1________________________;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#__1280___1________________________ {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1508px;
+	height: 2917px;
+	background-color: rgba(230,219,218,0.529);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: 웹 1280 – 1   // 지금 당장 시작하기 - 로그인 창;
+	--web-view-id: __1280___1________________________;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+#___471 {
+	position: absolute;
+	width: 1521px;
+	height: 2917px;
+	left: -2px;
+	top: 0px;
+	overflow: visible;
+}
+#___468 {
+	position: absolute;
+	width: 1521px;
+	height: 2917px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#______97___1 {
+	position: absolute;
+	width: 1521px;
+	height: 2917px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.____582 {
+	position: absolute;
+	overflow: visible;
+	width: 1516px;
+	height: 800px;
+	left: 0px;
+	top: 0px;
+}
+.____745 {
+	position: absolute;
+	overflow: visible;
+	width: 1516px;
+	height: 348px;
+	left: 0px;
+	top: 800px;
+}
+.____746 {
+	position: absolute;
+	overflow: visible;
+	width: 1516px;
+	height: 452px;
+	left: 0px;
+	top: 1148px;
+}
+.____747 {
+	position: absolute;
+	overflow: visible;
+	width: 1516px;
+	height: 1041px;
+	left: 1px;
+	top: 1600px;
+}
+.__________ {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 76px;
+	left: 670px;
+	top: 2549px;
+}
+._________ {
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	height: 82px;
+	left: 747px;
+	top: 2546px;
+}
+.________ {
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 59px;
+	left: 833px;
+	top: 2550px;
+}
+#___________A1_Text_1 {
+	position: absolute;
+	left: 588px;
+	top: 977px;
+	overflow: visible;
+	width: 377px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(29,29,29,0.69);
+	letter-spacing: 1px;
+}
+.__ {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 749px;
+	top: 903px;
+}
+#___________________________ {
+	position: absolute;
+	left: 455px;
+	top: 1045px;
+	overflow: visible;
+	width: 649px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(29,29,29,0.549);
+	letter-spacing: 1px;
+}
+#______ {
+	position: absolute;
+	left: 304px;
+	top: 1418px;
+	overflow: visible;
+	width: 144px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(99,99,99,1);
+	letter-spacing: 1px;
+}
+#____ {
+	position: absolute;
+	left: 682px;
+	top: 1418px;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(99,99,99,1);
+	letter-spacing: 1px;
+}
+#___ {
+	position: absolute;
+	left: 1100px;
+	top: 1414px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(99,99,99,1);
+	letter-spacing: 1px;
+}
+.notepad {
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	height: 111px;
+	left: 327px;
+	top: 1283px;
+}
+.networking {
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	height: 111px;
+	left: 713px;
+	top: 1283px;
+}
+.time_management__1_ {
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	height: 111px;
+	left: 1102px;
+	top: 1283px;
+}
+#______________________________ {
+	position: absolute;
+	left: 455px;
+	top: 1798px;
+	overflow: visible;
+	width: 704px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(29,29,29,0.549);
+	letter-spacing: 1px;
+}
+.notepad_A1_Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	height: 186px;
+	left: 1254px;
+	top: 1692px;
+}
+#________________________ {
+	position: absolute;
+	left: 81px;
+	top: 1707px;
+	overflow: visible;
+	width: 1095px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(99,99,99,1);
+	letter-spacing: 1px;
+}
+.networking_A1_Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 183px;
+	left: 148px;
+	top: 2001px;
+}
+#____________________ {
+	position: absolute;
+	left: 473px;
+	top: 2012px;
+	overflow: visible;
+	width: 875px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(99,99,99,1);
+	letter-spacing: 1px;
+}
+.time_management__1__A1_Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	height: 174px;
+	left: 1158px;
+	top: 2306px;
+}
+#_________________ {
+	position: absolute;
+	left: 218px;
+	top: 2326px;
+	overflow: visible;
+	width: 747px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(99,99,99,1);
+	letter-spacing: 1px;
+}
+#_______________________________A1_Text_10 {
+	position: absolute;
+	left: 473px;
+	top: 2103px;
+	overflow: hidden;
+	width: 837px;
+	height: 107px;
+	line-height: 40px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(149,151,166,1);
+}
+#_______________________________A1_Text_11 {
+	position: absolute;
+	left: 279px;
+	top: 2413px;
+	overflow: hidden;
+	width: 814px;
+	height: 47px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(149,151,166,1);
+}
+.____751 {
+	position: absolute;
+	overflow: visible;
+	width: 1516px;
+	height: 74px;
+	left: 5px;
+	top: 2843px;
+}
+#_______________________________A1_Text_12 {
+	position: absolute;
+	left: 435px;
+	top: 2689px;
+	overflow: visible;
+	width: 704px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(149,151,166,1);
+}
+.KakaoTalk_20190907_222632847 {
+	position: absolute;
+	overflow: visible;
+	width: 138.645px;
+	height: 37px;
+	left: 1331.619px;
+	top: 2868px;
+}
+#KakaoTalk_20190907_222632847_A1_Component_2 {
+	position: absolute;
+	width: 486.645px;
+	height: 130px;
+	left: 512.586px;
+	top: 279px;
+	overflow: visible;
+}
+.KakaoTalk_20190907_222632847_A1_Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 486.645px;
+	height: 130px;
+	left: 0px;
+	top: 0px;
+}
