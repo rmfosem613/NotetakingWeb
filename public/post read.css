@@ -1,0 +1,155 @@
+.mediaViewInfo {
+	--web-view-name: postread;
+	--web-view-id: postread;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: postread;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#postread {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1280px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: postread;
+	--web-view-id: postread;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+.____511 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 33px;
+	left: 0px;
+	top: 32px;
+}
+.____534 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 33px;
+	left: -1px;
+	top: -2px;
+}
+#____ {
+	position: absolute;
+	left: 601px;
+	top: -1px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 1px;
+}
+.KakaoTalk_20190907_222632847 {
+	position: absolute;
+	overflow: visible;
+	width: 173.646px;
+	height: 46px;
+	left: 226.354px;
+	top: 85px;
+}
+#___446 {
+	position: absolute;
+	width: 831px;
+	height: 841px;
+	left: 226px;
+	top: 166px;
+	overflow: visible;
+}
+.____540 {
+	position: absolute;
+	overflow: visible;
+	width: 831px;
+	height: 46px;
+	left: 0px;
+	top: 27px;
+}
+.____543 {
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 31px;
+	left: 0px;
+	top: 0px;
+}
+.____569 {
+	position: absolute;
+	overflow: visible;
+	width: 831px;
+	height: 46px;
+	left: 0px;
+	top: 66px;
+}
+.___420 {
+	overflow: visible;
+	position: absolute;
+	width: 831px;
+	height: 775px;
+	left: 0px;
+	top: 66px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_____A10_Text_2 {
+	position: absolute;
+	left: 246px;
+	top: 238px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(149,151,166,1);
+	letter-spacing: 1px;
+}
+#__ {
+	position: absolute;
+	left: 246px;
+	top: 201px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(149,151,166,1);
+	letter-spacing: 1px;
+}
+.___387 {
+	overflow: visible;
+	position: absolute;
+	width: 830.335px;
+	height: 46px;
+	left: 226px;
+	top: 232px;
+	transform: matrix(1,0,0,1,0,0);
+}
