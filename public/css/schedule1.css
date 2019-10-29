@@ -1,0 +1,778 @@
+.mediaViewInfo {
+	--web-view-name: web1280 - 4;
+	--web-view-id: web1280___4;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: web1280___4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#web1280___4 {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1280px;
+	height: 800px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: web1280 - 4;
+	--web-view-id: web1280___4;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+#___465 {
+	position: absolute;
+	width: 1280px;
+	height: 800px;
+	left: -1px;
+	top: -2px;
+	overflow: visible;
+}
+.boxbig {
+	overflow: visible;
+	position: absolute;
+	width: 680.758px;
+	height: 729px;
+	left: 301px;
+	top: 71px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.boxEmpty {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 331px;
+	top: 89px;
+}
+.boxMon {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 404px;
+	top: 89px;
+}
+.boxTue {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 518px;
+	top: 89px;
+}
+.boxWed {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 632px;
+	top: 89px;
+}
+.boxThu {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 746px;
+	top: 89px;
+}
+.boxFri {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 860px;
+	top: 89px;
+}
+.box1 {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 331px;
+	top: 168px;
+}
+.box2 {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 331px;
+	top: 247px;
+}
+.box3 {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 331px;
+	top: 326px;
+}
+.box4 {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 331px;
+	top: 405px;
+}
+.box5 {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 331px;
+	top: 484px;
+}
+.box6 {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 331px;
+	top: 563px;
+}
+.box7 {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 331px;
+	top: 642px;
+}
+.box8 {
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 331px;
+	top: 721px;
+}
+.boxMon1 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 404px;
+	top: 168px;
+}
+.boxMon2 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 404px;
+	top: 247px;
+}
+.boxMon3 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 404px;
+	top: 326px;
+}
+.boxMon6 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 404px;
+	top: 563px;
+}
+.boxMon4 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 404px;
+	top: 405px;
+}
+.boxWed6 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 632px;
+	top: 563px;
+}
+.boxTue5 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 518px;
+	top: 484px;
+}
+.boxMon7 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 404px;
+	top: 642px;
+}
+.boxMon8 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 404px;
+	top: 721px;
+}
+.boxTue6 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 518px;
+	top: 563px;
+}
+.boxMon5 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 404px;
+	top: 484px;
+}
+.boxTue1 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 518px;
+	top: 168px;
+}
+.boxTue7 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 518px;
+	top: 642px;
+}
+.boxTue8 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 518px;
+	top: 721px;
+}
+.boxTue4 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 518px;
+	top: 405px;
+}
+.boxWed1 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 632px;
+	top: 168px;
+}
+.boxWed2 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 632px;
+	top: 247px;
+}
+.boxWed3 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 632px;
+	top: 326px;
+}
+.boxWed4 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 632px;
+	top: 405px;
+}
+.boxWed5 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 632px;
+	top: 484px;
+}
+.boxThu1 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 746px;
+	top: 168px;
+}
+.boxThu2 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 746px;
+	top: 247px;
+}
+.boxThu3 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 746px;
+	top: 326px;
+}
+.boxThu5 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 746px;
+	top: 484px;
+}
+.boxThu6 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 746px;
+	top: 563px;
+}
+.boxThu7 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 746px;
+	top: 642px;
+}
+.boxThu8 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 746px;
+	top: 721px;
+}
+.boxFri1 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 860px;
+	top: 168px;
+}
+.boxFri2 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 860px;
+	top: 247px;
+}
+.boxFri3 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 860px;
+	top: 326px;
+}
+.boxFri4 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 860px;
+	top: 405px;
+}
+.boxFri5 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 860px;
+	top: 484px;
+}
+.boxFri6 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 860px;
+	top: 563px;
+}
+.boxFri7 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 860px;
+	top: 642px;
+}
+.boxFri8 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 860px;
+	top: 721px;
+}
+.boxTue2 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 518px;
+	top: 247px;
+}
+.boxTue3 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 518px;
+	top: 326px;
+}
+.boxWed7 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 632px;
+	top: 642px;
+}
+.boxWed8 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 632px;
+	top: 721px;
+}
+.boxThu4 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 63px;
+	left: 746px;
+	top: 405px;
+}
+#text1 {
+	position: absolute;
+	left: 361px;
+	top: 186px;
+	overflow: visible;
+	width: 11px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#text2 {
+	position: absolute;
+	left: 362px;
+	top: 266px;
+	overflow: visible;
+	width: 11px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#text3 {
+	position: absolute;
+	left: 362px;
+	top: 346px;
+	overflow: visible;
+	width: 11px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#text4 {
+	position: absolute;
+	left: 362px;
+	top: 422px;
+	overflow: visible;
+	width: 11px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#text5 {
+	position: absolute;
+	left: 362px;
+	top: 501px;
+	overflow: visible;
+	width: 11px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#text6 {
+	position: absolute;
+	left: 361px;
+	top: 578px;
+	overflow: visible;
+	width: 11px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#text7 {
+	opacity: 0.6;
+	position: absolute;
+	left: 361px;
+	top: 659px;
+	overflow: visible;
+	width: 11px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#text8 {
+	position: absolute;
+	left: 361px;
+	top: 735px;
+	overflow: visible;
+	width: 11px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#textMon {
+	position: absolute;
+	left: 445px;
+	top: 106px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#textTue {
+	position: absolute;
+	left: 559px;
+	top: 106px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#textWed {
+	position: absolute;
+	left: 673px;
+	top: 106px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#textThu {
+	position: absolute;
+	left: 787px;
+	top: 106px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+#textFri {
+	position: absolute;
+	left: 900px;
+	top: 106px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(184,129,125,0.702);
+}
+.headup {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+.headdown {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 33px;
+	left: 0px;
+	top: 34px;
+}
+#textMain {
+	position: absolute;
+	left: 602px;
+	top: 1px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 1px;
+}
+#textSel {
+	position: absolute;
+	left: 438px;
+	top: 380px;
+	overflow: visible;
+	width: 452px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(121,123,139,1);
+	letter-spacing: 1px;
+}
+#textMynote {
+	position: absolute;
+	left: 165px;
+	top: 36px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 1px;
+}
+#textNote {
+	position: absolute;
+	left: 292px;
+	top: 37px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 1px;
+}
+#textSetting {
+	position: absolute;
+	left: 432px;
+	top: 36px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 1px;
+}
+#textHOME {
+	position: absolute;
+	left: 53px;
+	top: 34px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: NanumBarunGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 1px;
+}
