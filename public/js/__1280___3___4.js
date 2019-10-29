@@ -7,7 +7,6 @@
  * Code subject to change.
  **/
 
-
 if (window.console==null) { window["console"] = { log : function() {} } }; // some browsers do not set console
 
 var Application = function() {
